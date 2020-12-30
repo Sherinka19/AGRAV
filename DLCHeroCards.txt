@@ -1,10 +1,10 @@
-79;Bessie Smith;3;Friendly cards gain 1 influence;4
-80;Jelly Roll Morton;4;Draw 1 card;4
-81;Louis Armstrong;3;Adjacent friendly cards gain 1 influence;4
-82;Duke Ellington;1;At the end of your turn, this card gains 2 influence;4
-83;Josephine Baker;5;The event loses 1 influence;4
-84;Alicia Garza;1;A random friendly card gains 4 influence;4
-85;Paul Robeson ;4;Enemy cards lose 1 influence;4
-86;Langston Hughes;6;At the end of your turn, this card loses 2 influence;4
-87;Zora Neale Hurston;2;Adjacent enemy cards lose 3 influence;4
-88;Claude McKay;3;A random enemy card loses 2 influence;4
+79;Bessie Smith;3;Friendly cards gain 1 influence;4;3:1
+80;Jelly Roll Morton;4;Draw 1 card;4;5:1
+81;Louis Armstrong;3;Adjacent friendly cards gain 1 influence;4;6:1
+82;Duke Ellington;1;At the end of your turn, this card gains 2 influence;4;2:2
+83;Josephine Baker;5;The event loses 1 influence;4;1:-1
+84;Alicia Garza;1;A random friendly card gains 4 influence;4;8:4
+85;Paul Robeson ;4;Enemy cards lose 1 influence;4;4:-1
+86;Langston Hughes;6;At the end of your turn, this card loses 2 influence;4;2:-2
+87;Zora Neale Hurston;2;Adjacent enemy cards lose 3 influence;4;7:-3
+88;Claude McKay;3;A random enemy card loses 2 influence;4;9:-2
